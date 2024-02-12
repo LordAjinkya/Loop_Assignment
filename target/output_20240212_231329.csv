@@ -1,0 +1,11 @@
+Order ID,Location,Order State,Type,Lost Sale,Net Payout,Payout ID,Payout Date
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,$0.00,-$11.21,360180390,1 Feb, 2024
+Adjustment,$0.00,$11.21,361672883,8 Feb, 2024
+#91e9be40,Indulge Inn,CHARGEBACK,Delivery,$0.00,$10.73,359799723,30 Jan, 2024
+Error Charges / Inaccurate,$0.00,-$3.58,359799723,30 Jan, 2024
+#fb90e2fc,Euphoria Eats,CHARGEBACK,Delivery,$0.00,$14.30,358775145,25 Jan, 2024
+Error Charges / Inaccurate,$0.00,-$14.30,358775145,25 Jan, 2024
+#67537338,Melange Munchies,CHARGEBACK,Delivery,$0.00,$15.86,361811695,8 Feb, 2024
